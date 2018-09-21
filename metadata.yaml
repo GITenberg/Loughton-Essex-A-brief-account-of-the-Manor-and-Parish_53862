@@ -1,0 +1,25 @@
+_repo: Loughton-Essex-A-brief-account-of-the-Manor-and-Parish_53862
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Waller, William Chapman
+    alias: Waller, W. C. (William Chapman)
+    birthdate: 1850
+    deathdate: 1917
+    gutenberg_agent_id: '47585'
+    url: http://www.gutenberg.org/2009/agents/47585
+description: ''
+gutenberg_issued: '2017-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53862'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Loughton (Essex, England) -- History'
+- !lcc 'DA'
+- GITenberg
+title: 'Loughton, Essex: A brief account of the Manor and Parish'
+url: http://www.gutenberg.org/ebooks/53862
